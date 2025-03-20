@@ -1,7 +1,7 @@
 # Hello Gerald
 ## as wished, a few lines of code
 
-* Milk
+* <a href="details.md">Milk</a>
 * Butter
 * Fish
 
