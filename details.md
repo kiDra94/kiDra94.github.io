@@ -20,4 +20,4 @@
     1. __cooking delicious meals__
 2. source -> **_Sweeden_**
 
-<img src="https://images.pexels.com/photos/36347/cow-pasture-animal-almabtrieb.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Foto of cow">
+![This is a Cow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8zBTuYBn6NS893bSNulkdOqrH6qcbbNaWA&s)
