@@ -20,6 +20,6 @@
     1. __cooking delicious meals__
 2. source -> **_Sweeden_**
 
-__Go back to first page ba clicking [here](index.md)__
+__Go back to first page by clicking [here](index.md)__
 
 ![This is a Cow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8zBTuYBn6NS893bSNulkdOqrH6qcbbNaWA&s)
