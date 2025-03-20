@@ -1,7 +1,7 @@
 # Hello Gerald
 ## as wished, a few lines of code
 
-* <a href="details.md">Milk</a>
+* [Milk](details.md)
 * Butter
 * Fish
 
